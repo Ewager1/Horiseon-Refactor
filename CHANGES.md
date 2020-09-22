@@ -1,2 +1,2 @@
-renamed .hero to .background-image (readability)
-renamed .content to .services-wrapper (readability)
+Reorganized benefits in CSS to flow with html. 
+combined Benefit styles into 2 code blocks 
