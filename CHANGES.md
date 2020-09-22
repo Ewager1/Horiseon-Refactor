@@ -1,4 +1,2 @@
-Refactored Header Section
-•	Renamed .seo to .header-faded-white 
-•	Added Note for header section 
-•	Gave class header-div .header-link-wrapper
+renamed .hero to .background-image (readability)
+renamed .content to .services-wrapper (readability)
