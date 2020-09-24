@@ -2,7 +2,7 @@
 
 [Horizon Refractor Project](http://127.0.0.1:5500/02-Homework/Develop/index.html#search-engine-optimization)
 
-[Website Image](./02-Homework\Assets\01-html-css-git-homework-demo.png)
+![Website Image](https://github.com/Ewager1/Horiseon-Refactor/blob/762f15fefd191d7e30e1e3fcc93d6abb88730adf/02-Homework/Assets/01-html-css-git-homework-demo.png)
 
 ---
 
@@ -28,7 +28,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 3. Added a title.
 4. fixed a broken link. "Search Engine optimization."
 
-[HTML Comparison](./02-Homework\Assets\html-comparison.png)
+![HTML Comparison](https://github.com/Ewager1/Horiseon-Refactor/blob/e77354a593d26d5c16dc9a33ca34a863fd6ce858/02-Homework/Assets/html-comparison.png)
 
 ## CSS Findings
 
@@ -37,7 +37,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 1. CSS was out of order: Ordered CSS to follow HTML flow.
 2. Repetitive code: Consilidated repetitive CSS. Particurally in the main and aside sections where multiple classes were used for the same styling.
 
-[Shortened Code Example](https://github.com/Ewager1/Horiseon-Refactor/blob/e77354a593d26d5c16dc9a33ca34a863fd6ce858/02-Homework/Assets/shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
+![Shortened Code Example](https://github.com/Ewager1/Horiseon-Refactor/blob/e77354a593d26d5c16dc9a33ca34a863fd6ce858/02-Homework/Assets/shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
 
 ## What I learned in this project
 
