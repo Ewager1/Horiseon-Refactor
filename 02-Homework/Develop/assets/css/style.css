@@ -6,7 +6,7 @@
 
 /*removed margin,padding,box-sizing for redunency with * */
 body {
-  background-color: #d9dcd6; 
+  background-color: #d9dcd6;
 }
 
 a {
@@ -64,14 +64,12 @@ p {
   background-position: center;
 }
 
-
 /*created more specific class name*/
 .services-wrapper {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
 
 .float-left {
   float: left;
@@ -84,8 +82,8 @@ p {
 }
 
 /*organized service wrapper content semantically with html*/
-/*condensed 3 blocks of code to one*/ 
-.service-item{
+/*condensed 3 blocks of code to one*/
+.service-item {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -135,7 +133,6 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
 
 .footer {
   padding: 30px;
