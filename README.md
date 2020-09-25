@@ -28,7 +28,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 3. Added a title.
 4. fixed a broken link. "Search Engine optimization."
 
-![HTML Comparison](./02-Homework/Assets/01-html-css-git-homework-demo.png)
+![HTML Comparison](./02-Homework/Assets/html-comparison.png)
 
 ## CSS Findings
 
