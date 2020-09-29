@@ -1,8 +1,8 @@
 # Horiseon Refactor Project
 
-[Horizon Refractor Project](./assets/images/01-html-css-git-homework-demo.png)
+[Horizon Refractor Project](.\assets\images\01-html-css-git-homework-demo.png)
 
-![Website Image](./assets/images/01-html-css-git-homework-demo.png)
+![Website Image](.\assets\images\01-html-css-git-homework-demo.png)
 
 ---
 
@@ -28,7 +28,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 3. Added a title.
 4. fixed a broken link. "Search Engine optimization."
 
-![HTML Comparison](./assets/images/html-comparison.png)
+![HTML Comparison](.\assets\images\html-comparison.png)
 
 ## CSS Findings
 
@@ -37,7 +37,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 1. CSS was out of order: Ordered CSS to follow HTML flow.
 2. Repetitive code: Consilidated repetitive CSS. Particurally in the main and aside sections where multiple classes were used for the same styling.
 
-![Shortened Code Example](./assets/images/shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
+![Shortened Code Example](.\assets\images\shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
 
 ## What I learned in this project
 
@@ -45,4 +45,4 @@ To refactor source code to be clean and meet accessibility standards with the fo
 
 - Proper tags are important for SEO and accessibility and should be used instead of div tags for webpages.
 - Scout Rule: Always test links and check other people's work to make improvements in possible.
-- Code redundancy are common, and there's always ways to make it shorter/cleaner.
+- Code redundancy are common, and there's always ways to make it shorter\cleaner.
