@@ -1,8 +1,8 @@
 # Horiseon Refactor Project
 
-[Horizon Refractor Project](./assets/images/01-html-css-git-homework-demo.png)
+[Horizon Refractor Project](./assets/Images/01-html-css-git-homework-demo.png)
 
-![Website Image](./assets/images/01-html-css-git-homework-demo.png)
+![Website Image](./assets/Images/01-html-css-git-homework-demo.png)
 
 ---
 
@@ -37,7 +37,7 @@ To refactor source code to be clean and meet accessibility standards with the fo
 1. CSS was out of order: Ordered CSS to follow HTML flow.
 2. Repetitive code: Consilidated repetitive CSS. Particurally in the main and aside sections where multiple classes were used for the same styling.
 
-![Shortened Code Example](.\assets\Images\shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
+![Shortened Code Example](./assets/Images/shortened-code-example.png) 3. Confusing class titles: For example, the class 'hero' was irrelevant to it's area. Changed class names to be easer to read and comprehend.
 
 ## What I learned in this project
 
