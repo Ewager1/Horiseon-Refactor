@@ -1,6 +1,6 @@
 # Horiseon Refactor Project
 
-[Horizon Refractor Project](./assets/Images/01-html-css-git-homework-demo.png)
+[Horizon Refractor Project](https://ewager1.github.io/Horiseon-Refactor/#social-media-marketing)
 
 ![Website Image](./assets/Images/01-html-css-git-homework-demo.png)
 
